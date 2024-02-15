@@ -1,3 +1,9 @@
+---
+title: Roslindale E-bike Lending Library
+images: ['/img/library-locations.png']
+---
+
+
 # Curious about e-bikes? Try one from the Roslindale E-bike Lending Library!
 
 The E-bike Lending Library is a free, not-for-profit service working to expand access to e-bikes in the area. We have a small collection of e-bikes that we lend out to community members for up to a week, for free.
