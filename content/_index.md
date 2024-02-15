@@ -2,8 +2,8 @@
 
 The E-bike Lending Library is a free, not-for-profit service working to expand access to e-bikes in the area. We have a small collection of e-bikes that we lend out to community members for up to a week, for free.
 
-The Roslindale E-Bike Lending Library is a joint project with the Camberville
-E-Bike Lending Library. Any bike from the Camberville E-Bike Library can be 
+**The Roslindale E-Bike Lending Library is a joint project with the Camberville
+E-Bike Lending Library**. Any bike from the Camberville E-Bike Library can be 
 borrowed and returned at our location in Roslindale Village.
 
 <div style="text-align: center; font-size: 30px; margin: 20px"><a href="https://camberville.ebikelibrary.org/our-bikes/">Check out our bikes</a>!</div>
@@ -19,3 +19,4 @@ borrowed and returned at our location in Roslindale Village.
     library.
 * You can borrow an e-bike more than once, or borrow multiple e-bikes.
 
+<img src="/img/library-locations.png" />
